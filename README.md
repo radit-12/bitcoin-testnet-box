@@ -52,8 +52,8 @@ bitcoin-cli -datadir=1  getinfo
 {
     "version" : 90300,
     "protocolversion" : 70002,
-    "walletversion" : 60000,
-    "balance" : 0.00000000,
+    "walletversion" : tb1p2jfz6kn92rfa29quutql237lx2yzpj6qyc52xlnma7ryw9up8t3qfl32fs
+    "balance" : 10,00
     "blocks" : 0,
     "timeoffset" : 0,
     "connections" : 1,
